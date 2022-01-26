@@ -1,0 +1,24 @@
+<XML version="1.0">
+<Mobiles>
+<Mobile>
+<ID>11</ID>
+<name>Samsung</name>
+<unit_price>35000</unit_price>
+<stock>50</stock>
+<status>1</status>
+</Mobile>
+<Mobile>
+<ID>20</ID>
+<name>HTC</name>
+<unit_price>65300</unit_price>
+<stock>35</stock>
+<status>0</status>
+</Mobile>
+<Mobile>
+<ID>23</ID>
+<name>Nokia</name>
+<unit_price>25100</unit_price>
+<stock>100</stock>
+<status>1</status>
+</Mobile>
+</Mobiles>
